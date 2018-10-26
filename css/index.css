@@ -3,5 +3,7 @@ body {
 }
 
 .panel-default {
-    background-color: #7dabd4;
+    margin-top: 5%;
+    background-color: #bea17b;
+    font-style: italic;
 }

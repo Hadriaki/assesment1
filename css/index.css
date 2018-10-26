@@ -1,3 +1,7 @@
 body {
     background-color: rgb(207, 219, 160);
 }
+
+.panel-default {
+    background-color: #7dabd4;
+}
